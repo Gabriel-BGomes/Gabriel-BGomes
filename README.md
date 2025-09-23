@@ -11,6 +11,7 @@
   <a href="https://www.instagram.com/ogabriel.bg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
@@ -60,9 +61,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gabriel-BGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Gabriel-BGomes/Gabriel-BGomes/output/snake.svg" alt="Snake animation" />
 
 ###
