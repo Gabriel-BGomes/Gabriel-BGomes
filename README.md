@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radios = "50px"height="300px" width="1024px"src="./img/banner github gabriel braga.png"  />
+  <img border-radius="75px" height="300px" width="1024px"src="./img/banner github gabriel braga.png"  />
 </div>
 
 ###
