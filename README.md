@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300px" width="1024px"src="./img/banner github gabriel braga.png" style="border-radius: 15px;"/>
+  <img height="300px" width="1024px"src="./img/banner-gabriel-braga.png"/>
 </div>
 
 ###
